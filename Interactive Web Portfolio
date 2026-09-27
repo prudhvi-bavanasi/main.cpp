@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bavanasi Prudhvi Teja | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bavanasi Prudhvi Teja</h1>
+        <p>Integrated M.Tech Software Engineering | VIT-AP</p>
+        <button id="themeToggle">Toggle Dark Mode</button>
+    </header>
+    
+    <main>
+        <section class="card">
+            <h2>About Me</h2>
+            <p>I am a 2nd-year student passionate about full-stack development and Data Structures & Algorithms.</p>
+        </section>
+
+        <section class="card">
+            <h2>Technical Skills</h2>
+            <ul class="skills-list">
+                <li>C++ & Java</li>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Node.js & MongoDB</li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
